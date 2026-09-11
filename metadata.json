@@ -1,0 +1,6 @@
+{
+  "name": "Checklist APAR",
+  "description": "Aplikasi digital untuk mencatat inspeksi dan pengecekan rutin kondisi Alat Pemadam Api Ringan (APAR).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
